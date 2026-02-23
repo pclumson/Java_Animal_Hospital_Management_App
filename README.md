@@ -1,7 +1,9 @@
 # Java_Animal_Hospital_Management_App
 A simple but yet robust  Java Pets  Hospital Management System
 
-A console-based, pet care scheduler application that lets users register their pets, log important appointments, track upcoming tasks, and keep a history of past visits, all while safely storing this information so it doesn't disappear when the app closes.
+A console-based, pet care scheduler application that lets users register their pets, 
+log important appointments, track upcoming tasks, and keep a history of past visits, 
+all while safely storing this information so it doesn't disappear when the app closes.
 
 After completing this project, you will be able to demonstrate your ability to:
 
