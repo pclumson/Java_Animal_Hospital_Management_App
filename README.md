@@ -1,4 +1,4 @@
-# Java_Animal_Hospital_Management_App
+# Java Animal Hospital Management App
 A simple but yet robust  Java Pets  Hospital Management System
 
 A console-based, pet care scheduler application that lets users register their pets, 
